@@ -18,6 +18,26 @@
     </item>
     
     <item>
+      <title>Secund Post</title>
+      <link>/posts/secund-post/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/secund-post/</guid>
+      <description>Dragon Ball GT - Gill RobotHeadings&gt;Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/secund-post/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Diretrizes de Comentários</title>
+      <link>/diretrizes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/diretrizes/</guid>
+      <description>Direto ao ponto, essas são as regras para comentários no blog:Seja cortês, agradável e amigável; Mensagens ofensivas ou preconceituosas serão banidas; Spam não é permitido, o espaço é para a troca de ideias e não de publicidade; Discurso de ódio não é tolerado; Política e religião podem ser discutidas, com o devido respeito e ética; Comentários e críticas construtivas são sempre bem-vindos; Por fim, tenha bom senso.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/diretrizes/featured.png" />
+    </item>
+    
+    <item>
       <title>Sobre - ou as motivações e propósito desse espaço.</title>
       <link>/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -23,6 +23,15 @@
     
   
     
+      <url>
+            <loc>/posts/secund-post/</loc>
+            <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
   
     
       <url>
@@ -35,6 +44,14 @@
   
     
   
+    
+  
+    
+      <url>
+            <loc>/diretrizes/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
