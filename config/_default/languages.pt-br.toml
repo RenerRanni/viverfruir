@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "vi [ver] fruir"
+# logo = "img/logo.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Rener Rannieri"
+  image = "img/author.jpg"
+  headline = "Designer de Produtos Digitais | Ilustrador"
+  bio = "Curioso nato, apaixonado por uma boa história e sempre buscando aprender algo novo (na ficção ou realidade). A, embora designer, tem a alma de artista rebelde."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/rener-rannieri/" },
+    { medium = "https://medium.com/@rener.rannieri" },
+    { email = "mailto:rannieri.rener@gmail.com" },
+  ]
+ 

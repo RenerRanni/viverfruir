@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>👋🏾 Olá! on vi [ver] fruir</title>
+    <link>/</link>
+    <description>Recent content in 👋🏾 Olá! on vi [ver] fruir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>👨🏾‍💻 He110 W0rd</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>Dragon Ball GT - Gill RobotHeadings&gt;Headings # The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/first-post/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Sobre - ou as motivações e propósito desse espaço.</title>
+      <link>/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sobre/</guid>
+      <description>Olá, me chamo Rener, tenho 25 anos e sou designer de produtos digitais e ilustrador.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/sobre/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

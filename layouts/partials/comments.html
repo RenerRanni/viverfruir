@@ -1,0 +1,29 @@
+<br><br>
+<h2 class="mb-8 text-4xl font-bold text-neutral-900 dark:text-neutral">💬 Comentários</h2>
+<br>
+
+<div class="mt-3 mb-5 text-base text-neutral-900 dark:text-neutral">
+  Os comentários utilizam o servidor Element e você pode fazer sua conta em <a href="https://app.element.io/#/welcome" class="text-base text-1xl font-medium text-gray-500 hover:text-gray-900">element.io</a>, ou postar sem cadastrar - essa opção também está disponível 😀 - basta colocar seu comentário/nome e clicar em "post".
+</div>
+
+<div class="mt-3 mb-16 text-base text-neutral-900 dark:text-neutral">
+  Só peço que verifique a <a href="https://blog.renergarden.online/diretrizes/" class="text-base text-1xl font-medium text-gray-500 hover:text-gray-900">diretriz de comunidade</a> - quaisquer comentários que ferir de alguma maneira esta, irão ser removidos.  
+</div>
+
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+
+<div id="comment-section"></div>
+
+<script>
+  initComments({
+    node: document.getElementById("comment-section"),
+    defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+    serverName: "cactus.chat",
+    siteName: "viverfruir-blog",
+    commentSectionId: "{{ $.File.ContentBaseName }}"
+  })
+</script>
+
+<br>
+<br>
