@@ -3,12 +3,12 @@ title: "Blue Turtle - Música, Fantasia e Charmosas Ilustrações"
 date: 2023-05-03
 draft: false
 description: "Hey, se você é fã de música instrumental, eu tenho uma recomendação incrível para você!"
-showHero: true
-heroStyle: background
 tags: ["musica" , "animacao" , "inspiracao"]
 categories: [notes-notas]
 showComments: true
 ---
+
+![Image](featured.png "")
 
 Hey, se você é fã de música instrumental, eu tenho uma recomendação incrível para você: o canal [Blue Turtle](https://www.youtube.com/@BlueTurtle) no YouTube!
 
