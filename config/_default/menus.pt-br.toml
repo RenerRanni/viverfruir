@@ -9,9 +9,9 @@
   weight = 20
 
 [[main]]
-  name = "Categoria A"
+  name = "Notes & Notas"
   parent = "Categorias"
-  pageRef = "cat1"
+  pageRef = "notes-notas"
   weight = 10
 
 [[main]]
@@ -27,7 +27,7 @@
   weight = 30
 
 [[main]]
-  name = "Em1Frame"
+  name = "Em1Print"
   url = "https://quartz.renergarden.online"
   weight = 40
 
