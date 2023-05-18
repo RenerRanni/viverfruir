@@ -15,16 +15,12 @@
   weight = 10
 
 [[main]]
-  name = "Categoria B"
+  name = ".Elementos"
   parent = "Categorias"
-  pageRef = ""
+  pageRef = "elementos"
   weight = 20
 
-[[main]]
-  name = "Categoria C"
-  parent = "Categorias"
-  pageRef = ""
-  weight = 30
+# Copiar os anteriores!
 
 [[main]]
   name = "Em1Print"
